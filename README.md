@@ -1,3 +1,3 @@
 # story1
 
-This is my story
+This is my story.
